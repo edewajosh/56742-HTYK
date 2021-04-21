@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "car-tracker-api"
+    }
+  },
+  "defaultProject": "car-tracker-api",
+  "cli": {
+    "analytics": "94243fc0-430d-4186-97ee-fcbc96a54c53"
+  }
 }
